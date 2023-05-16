@@ -28,3 +28,5 @@ Tu tarea consiste en elaborar la documentación del caso de uso "``Cumplimentar 
 4. Elaborar el **diagrama de actividad** para el caso de uso "Cumplimentar pedidos".
 
 5. Describe a qué objeto puede corresponder el siguiente **diagrama de transición** de estados indicando cual es la funcionalidad que representa.
+
+<div align = center><img src="https://github.com/AlbaGonzalezPereira/daw_cd/blob/main/Tarea06_comportamiento/img/diagrama.PNG" alt="diagrama de transición" style = "width: 60%"></div>
